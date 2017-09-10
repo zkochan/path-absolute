@@ -1,0 +1,33 @@
+{
+  "name": "path-absolute",
+  "version": "0.0.0",
+  "description": "Resolves a path to an absolute path. Supports tilde",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zkochan/path-absolute.git"
+  },
+  "keywords": [
+    "path",
+    "absolute",
+    "tilde"
+  ],
+  "author": "Zoltan Kochan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zkochan/path-absolute/issues"
+  },
+  "homepage": "https://github.com/zkochan/path-absolute#readme",
+  "dependencies": {
+    "os-homedir": "^1.0.2"
+  },
+  "devDependencies": {
+    "standard": "^10.0.3"
+  }
+}
