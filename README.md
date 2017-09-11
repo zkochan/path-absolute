@@ -1,5 +1,7 @@
 # path-absolute
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zkochan/path-absolute.svg)](https://greenkeeper.io/)
+
 > Resolves a path to an absolute path. Supports tilde
 
 <!--@shields('npm', 'travis')-->
