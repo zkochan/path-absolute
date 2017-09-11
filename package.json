@@ -3,8 +3,10 @@
   "version": "0.0.0",
   "description": "Resolves a path to an absolute path. Supports tilde",
   "main": "index.js",
+  "typings": "index.d.ts",
   "files": [
-    "index.js"
+    "index.js",
+    "index.d.ts"
   ],
   "scripts": {
     "test": "standard"
