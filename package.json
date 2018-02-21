@@ -20,7 +20,14 @@
     "absolute",
     "tilde"
   ],
-  "author": "Zoltan Kochan",
+  "author": {
+    "name": "Zoltan Kochan",
+    "email": "z@kochan.io",
+    "url": "https://kochan.io/"
+  },
+  "engines": {
+    "node": ">=4"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/zkochan/path-absolute/issues"
