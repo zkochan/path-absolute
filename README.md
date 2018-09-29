@@ -1,3 +1,5 @@
+> moved to https://github.com/zkochan/packages/tree/master/path-absolute
+
 # path-absolute
 
 > Resolves a path to an absolute path. Supports tilde
